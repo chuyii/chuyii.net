@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+@keyframes logo-y {
+  0% { transform: translate(0px,7.667px); }
+  33% { transform: translate(0px,11.667px); }
+  66% { transform: translate(11.862px,11.667px); }
+  100% { transform: translate(11.862px,7.667px); }
+}
+
+@keyframes logo-u {
+  0% { transform: translate(3.943px,7.667px); }
+  33% { transform: translate(3.943px,7.667px); }
+  66% { transform: translate(7.993px,7.667px); }
+  100% { transform: translate(7.993px,7.667px); }
+}
+
+@keyframes logo-i {
+  0% { transform: translate(7.812px,6.566px); }
+  33% { transform: translate(7.812px,6.566px); }
+  66% { transform: translate(15.805px,6.566px); }
+  100% { transform: translate(15.805px,6.566px); }
+}
+
+@keyframes logo-c {
+  0% { transform: translate(9.448px,7.604px); }
+  33% { transform: translate(9.448px,2.604px); }
+  66% { transform: translate(0px,2.604px); }
+  100% { transform: translate(0px,7.604px); }
+}
+
+@keyframes logo-h {
+  0% { transform: translate(13.561px,5px); }
+  33% { transform: translate(13.561px,0px); }
+  66% { transform: translate(4.113px,0px); }
+  100% { transform: translate(4.113px,5px); }
+}
+
+@keyframes logo-fadein {
+  0% { opacity: 0; }
+  66% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+/* forwards: アニメーション終了後はスタイルを維持する */
+#logo_y { animation: logo-y 2s ease-in-out forwards; }
+#logo_u { animation: logo-u 2s ease-in-out forwards; }
+#logo_i { animation: logo-i 2s ease-in-out forwards; }
+#logo_c { animation: logo-c 2s ease-in-out forwards; }
+#logo_h { animation: logo-h 2s ease-in-out forwards; }
+.logo_fadein { animation: logo-fadein 2s ease-in-out forwards; }

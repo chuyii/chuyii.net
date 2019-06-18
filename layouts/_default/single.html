@@ -1,0 +1,11 @@
+{{ partial "header.html" . }}
+  <div class="uk-card uk-card-default uk-margin">
+    <div class="uk-card-header">
+      <h1 class="uk-card-title uk-margin-remove-bottom">{{ .Title }}</h1>
+      <p class="uk-text-meta uk-margin-remove-top">{{ .Date.Format "Jan 01, 2006 15:04" }}</p>
+    </div>
+    <div class="uk-card-body">
+      {{ .Content }}
+    </div>
+  </div>
+{{ partial "footer.html" . }}

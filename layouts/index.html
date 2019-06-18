@@ -1,0 +1,22 @@
+{{ partial "header.html" . }}
+  <div class="uk-card uk-card-default uk-margin">
+    <div class="uk-card-body">
+      <ul class="uk-list uk-list-large uk-list-divider">
+        {{ range (.Paginator 10).Pages }}
+          {{ .Render "list" }}
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+  {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+    <ul class="uk-pagination uk-flex-center" uk-margin>
+      {{ if .Paginator.HasPrev }}
+      <li><a href="{{ .Paginator.Prev.URL }}"><span uk-pagination-previous></span></a></li>
+      {{ end }}
+      <li class="uk-active"><span>{{ .Paginator.PageNumber }} / {{ .Paginator.TotalPages }}</span></li>
+      {{ if .Paginator.HasNext }}
+      <li><a href="{{ .Paginator.Next.URL }}"><span uk-pagination-next></span></a></li>
+      {{ end }}
+    </ul>
+  {{ end }}
+{{ partial "footer.html" . }}
