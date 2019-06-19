@@ -16,7 +16,7 @@ Title = "アイドル遍歴"
 #### Q'ulle
 <iframe class="uk-align-center" src="https://www.youtube.com/embed/t_vlaTtAyXQ" width="280" height="157" frameborder="0" allowfullscreen uk-responsive></iframe>
 
-踊ってみたから芋づつ式にもっとアイドル的な（ガールズグループ？）であるQ'ulle（きゅーる）にハマる。
+踊ってみたから芋づる式にもっとアイドルのような（ガールズグループ？の）Q'ulle（きゅーる）にハマる。
 
 人生初めてのライブもこのグループだった。で、お金をつぎ込み始めたのもこの頃から。
 
