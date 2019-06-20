@@ -2,7 +2,8 @@
   <div class="uk-card uk-card-default uk-margin">
     <div class="uk-card-body">
       <ul class="uk-list uk-list-large uk-list-divider">
-        {{ range (.Paginator 10).Pages }}
+        {{ $paginator := .Paginate (where .Data.Pages "Type" "posts") }}
+        {{ range $paginator.Pages }}
           {{ .Render "list" }}
         {{ end }}
       </ul>
