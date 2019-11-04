@@ -1,3 +1,5 @@
 baseURL = "http://chuyii.net"
 languageCode = "ja"
 title = "chuyii.net"
+
+googleAnalytics = "UA-151539456-1"

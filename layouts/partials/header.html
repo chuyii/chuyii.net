@@ -12,6 +12,7 @@
     <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
     <script type="text/javascript" src="{{ .Site.BaseURL }}/js/uikit.min.js"></script>
     <script type="text/javascript" src="{{ .Site.BaseURL }}/js/uikit-icons.min.js"></script>
+    {{- partial "analytics" . -}}
   </head>
   <body>
     <header>
