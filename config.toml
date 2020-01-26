@@ -3,3 +3,6 @@ languageCode = "ja"
 title = "chuyii.net"
 
 googleAnalytics = "UA-151539456-1"
+
+[markup.goldmark.renderer]
+  unsafe = true
