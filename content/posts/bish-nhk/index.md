@@ -26,16 +26,10 @@ BiSHのNEW HATEFUL KiND TOURファイナルに行ってきた。
 
 #### 昔に撮ったチェキとそれに関する脱線
 
-<div class="uk-card uk-card-default uk-align-center" style="max-width: 280px;">
-<div class="uk-card-media-top">
-<img src="image1.jpg" alt="初めてのチェキ">
-</div>
-<div class="uk-card-body uk-padding-small">
-<p class="uk-margin-remove">初めてのチェキ</p>
+{{< embfigure src="image1.jpg" caption="初めてのチェキ" >}}
 <small>BiSHの学園天国Tour 代官山UNIT</small>
 <small>2017.11.25</small>
-</div>
-</div>
+{{< / embfigure >}}
 
 これは初めて行ったライブで撮ったチェキ。
 
@@ -57,15 +51,9 @@ BiSHのNEW HATEFUL KiND TOURファイナルに行ってきた。
 
 これをつけてからはライブ終わりに耳が遠くなることもない。ライブを楽しみ続けるためにも耳を守ってあげることは必要なのではと思う。
 
-<div class="uk-card uk-card-default uk-align-center" style="max-width: 280px;">
-<div class="uk-card-media-top">
-<img src="image2.jpg" alt="ライブ用耳栓">
-</div>
-<div class="uk-card-body uk-padding-small">
-<p class="uk-margin-remove">ライブ用耳栓 "earasers"</p>
+{{< embfigure src="image2.jpg" caption="ライブ用耳栓 \"earasers\"" >}}
 <small>他のライブ用耳栓より高め。他のを使ったことがないから比べられないけど高い分良いものなのだろうと思うことにしている。</small>
-</div>
-</div>
+{{< / embfigure >}}
 
 #### 脱線からもどる
 

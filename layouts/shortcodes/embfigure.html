@@ -1,0 +1,11 @@
+{{- $src := .Get "src" -}}
+{{- $caption := .Get "caption" -}}
+<div class="uk-card uk-card-default uk-align-center" style="max-width: 280px;">
+  <div class="uk-card-media-top">
+    <img src="{{ $src }}" alt="{{ $caption }}">
+  </div>
+  <div class="uk-card-body uk-padding-small">
+    <p class="uk-margin-remove">{{ $caption }}</p>
+    {{- .Inner -}}
+  </div>
+</div>
