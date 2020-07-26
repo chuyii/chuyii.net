@@ -5,15 +5,15 @@ Title = "雫さんに一目惚れした話（ポルカドットスティング�
 
 YouTubeの関連動画に出てきた。
 
-<iframe class="uk-align-center" src="https://www.youtube.com/embed/yZb4HorEhX8" width="280" height="157" frameborder="0" allowfullscreen uk-responsive></iframe>
+{{< embyoutube id="yZb4HorEhX8" >}}
 
 なんとなく開いたら、Vocal/Guitarの雫さんが格好良くて、綺麗で思わず見入ってしまった。
 
 その流れで他の曲も漁ってみたら、いい曲しかないではないか。
 
-<iframe class="uk-align-center" src="https://www.youtube.com/embed/D199Zpv6d6M" width="280" height="157" frameborder="0" allowfullscreen uk-responsive></iframe>
+{{< embyoutube id="D199Zpv6d6M" >}}
 
-<iframe class="uk-align-center" src="https://www.youtube.com/embed/p6oVXuLsbxM" width="280" height="157" frameborder="0" allowfullscreen uk-responsive></iframe>
+{{< embyoutube id="p6oVXuLsbxM" >}}
 
 なによりギターのテクニックがすごすぎて（詳しいことはわからんけど）、聞いてて気持ちいい。
 

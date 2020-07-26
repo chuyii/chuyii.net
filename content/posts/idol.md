@@ -11,10 +11,10 @@ Title = "アイドル遍歴"
 
 いまはそれほど魅力を感じないけど、当時の自分には必要なものだったんだと思う。
 
-<iframe class="uk-align-center" src="https://www.youtube.com/embed/jr1NX4Jo8GE" width="280" height="157" frameborder="0" allowfullscreen uk-responsive></iframe>
+{{< embyoutube id="jr1NX4Jo8GE" >}}
 
 #### Q'ulle
-<iframe class="uk-align-center" src="https://www.youtube.com/embed/t_vlaTtAyXQ" width="280" height="157" frameborder="0" allowfullscreen uk-responsive></iframe>
+{{< embyoutube id="t_vlaTtAyXQ" >}}
 
 踊ってみたから芋づる式にもっとアイドルのような（ガールズグループ？の）Q'ulle（きゅーる）にハマる。
 
@@ -27,7 +27,7 @@ Title = "アイドル遍歴"
 #### BiSH
 前述したQ'ulleの動画をYouTubeで見ていた時、関連動画に出てきた「プロミスザスター」を見て一瞬で虜になった。
 
-<iframe class="uk-align-center" src="https://www.youtube.com/embed/ox8WVRnb8GA" width="280" height="157" frameborder="0" allowfullscreen uk-responsive></iframe>
+{{< embyoutube id="ox8WVRnb8GA" >}}
 
 Q'ulleに飽き始めていたということもある。運営は頑張っていたみたいだけど停滞している感はひしひしと感じていた。
 
@@ -37,4 +37,4 @@ Q'ulleに飽き始めていたということもある。運営は頑張って�
 
 まだまだ楽しませてもらいたいな。
 
-<iframe class="uk-align-center" src="https://www.youtube.com/embed/CevHzbIZ5vs" width="280" height="157" frameborder="0" allowfullscreen uk-responsive></iframe>
+{{< embyoutube id="CevHzbIZ5vs" >}}

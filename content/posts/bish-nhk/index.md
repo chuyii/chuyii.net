@@ -87,4 +87,4 @@ BiSHのNEW HATEFUL KiND TOURファイナルに行ってきた。
 
 まだまだBiSHの沼からは抜け出せそうにないなぁ。
 
-<iframe class="uk-align-center" src="https://www.youtube.com/embed/Qpk-z2eWRno" width="280" height="157" frameborder="0" allowfullscreen uk-responsive></iframe>
+{{< embyoutube id="Qpk-z2eWRno" >}}
