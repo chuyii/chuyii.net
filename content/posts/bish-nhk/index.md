@@ -1,6 +1,7 @@
 +++
 date = "2020-01-26T19:44:45+09:00"
 Title = "NHKツアーファイナル"
+description = "BiSHのNEW HATEFUL KiND TOURファイナルに行ってきた。"
 +++
 BiSHのNEW HATEFUL KiND TOURファイナルに行ってきた。
 
